@@ -19,3 +19,8 @@
 13. https://community.gainsight.com/reports-dashboards-9/chart-showing-yes-no-or-true-false-count-for-multiple-fields-2312
 14. https://forum.mendix.com/link/questions/94956
 15. https://instagantt.com/gantt-chart-experts/gantt-chart-vs-timeline
+16. https://www.youtube.com/watch?v=8y4yjPYe4-8&ab_channel=PavanLalwani
+17. https://learn.microsoft.com/en-us/training/modules/introduction-power-bi/
+18. https://learn.microsoft.com/en-us/training/paths/model-power-bi/
+19. https://spreadsheeto.com/power-bi-best-practices/#:~:text=1%20Put%20first%20things%20first.%20This%20one%20is,with%20numeric%20data%2C%20use%20integers%20instead%20of%20strings
+20. https://spreadsheeto.com/power-bi-best-practices/#:~:text=1%20Put%20first%20things%20first.%20This%20one%20is,with%20numeric%20data%2C%20use%20integers%20instead%20of%20strings
