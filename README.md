@@ -18,3 +18,4 @@
 12. https://www.youtube.com/watch?v=jSfXBvdQkec&ab_channel=iCoTechServices
 13. https://community.gainsight.com/reports-dashboards-9/chart-showing-yes-no-or-true-false-count-for-multiple-fields-2312
 14. https://forum.mendix.com/link/questions/94956
+15. https://instagantt.com/gantt-chart-experts/gantt-chart-vs-timeline
